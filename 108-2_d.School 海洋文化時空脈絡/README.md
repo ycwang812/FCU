@@ -1,5 +1,5 @@
 ### 中華開放教育平台
 
-【107-2】數位人文的創新與實踐：海洋文化數位典藏
+【108-2】海洋文化時空脈絡
 
-https://www.openedu.tw/course.jsp?id=794
+https://www.openedu.tw/course.jsp?id=1006
