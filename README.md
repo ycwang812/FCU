@@ -4,7 +4,7 @@
 
 107-2_d.School
 
-108-1_d.School
+108-1_d.School 人文與科技
 
 108-2_d.School
 
